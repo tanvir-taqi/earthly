@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "name":"Plant Based Reusable Cups",
+        "prevPrice":2.99,
+        "currentPrice":2.39,
+        "imageUrl":"https://static.wixstatic.com/media/ead566_be12cf35ae454264874d19841803bf17~mv2.jpg/v1/fill/w_275,h_275,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ead566_be12cf35ae454264874d19841803bf17~mv2.jpg",
+        "available":true
+    },
+    {
+        "id":2,
+        "name":"Sustainability Starter Kit", 
+        "currentPrice":10.99,
+        "imageUrl":"https://static.wixstatic.com/media/ead566_14e75a560cbc411ead722de92eaf8189~mv2.jpg/v1/fill/w_275,h_275,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ead566_14e75a560cbc411ead722de92eaf8189~mv2.jpg",
+        "available":true
+    },
+    {
+        "id":3,
+        "name":"Reusable Bamboo Straws",
+        "currentPrice":1.99,
+        "imageUrl":"https://static.wixstatic.com/media/ead566_f00cb71f38d7415eacd2c60085f51907~mv2.jpg/v1/fill/w_275,h_275,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ead566_f00cb71f38d7415eacd2c60085f51907~mv2.jpg",
+        "available":true
+    },
+    {
+        "id":4,
+        "name":"Natural Bamboo Loofah",
+        "prevPrice":3.99,
+        "currentPrice":2.99,
+        "imageUrl":"https://static.wixstatic.com/media/ead566_bb684fa9db814a0783631430b46f33bb~mv2.jpg/v1/fill/w_275,h_275,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ead566_bb684fa9db814a0783631430b46f33bb~mv2.jpg",
+        "available":true
+    },
+    {
+        "id":5,
+        "name":"Bamboo Toothbrush (set of 2)",
+        "prevPrice":4.49,
+        "currentPrice":3.59,
+        "imageUrl":"https://static.wixstatic.com/media/ead566_15c1739b1d054071b975f1fdee7a8759~mv2.jpg/v1/fill/w_275,h_275,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ead566_15c1739b1d054071b975f1fdee7a8759~mv2.jpg",
+        "available":true
+    },
+    {
+        "id":6,
+        "name":"Plant Based Reusable Containers",
+        "currentPrice":2.99,
+        "imageUrl":"https://static.wixstatic.com/media/ead566_accfe36a331741fb81daacaa4d00c94d~mv2.jpg/v1/fill/w_275,h_275,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ead566_accfe36a331741fb81daacaa4d00c94d~mv2.jpg",
+        "available":false
+    }
+]

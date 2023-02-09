@@ -1,0 +1,30 @@
+
+
+.send-btn{
+    background: linear-gradient(110deg, #d01043, #d01043dc);
+    transition: all 0.5s ease-in-out;
+    cursor: pointer;
+}
+
+.send-btn:hover {
+    box-shadow: 0 0 0 5px #d010436c;
+    animation: buttonROtate;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+   
+}
+
+@keyframes buttonROtate {
+    0% {
+        transform: rotate(2deg);
+    }
+
+    50% {
+        transform: rotate(-2deg);
+    }
+
+    100% {
+        transform: rotate(2deg);
+    }
+}
